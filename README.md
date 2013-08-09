@@ -1,4 +1,4 @@
 development-guidelines
 ======================
 
-Guide to develop STI opensource projects.
+Guide to develop STI Open Source projects.
